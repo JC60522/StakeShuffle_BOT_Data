@@ -1,0 +1,8 @@
+{
+"elec_cost": "0.1",
+"miner_capacity": "34",
+"miner_cost": "1282",
+"miner_watts": "1610",
+"facility_est": "5"
+}
+
